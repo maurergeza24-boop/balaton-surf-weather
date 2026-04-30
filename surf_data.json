@@ -1,10 +1,10 @@
 {
-    "last_update": "2026-04-30 10:09",
+    "last_update": "2026-04-30 12:16",
     "unit": "km/h",
     "current": {
-        "speed": 15.7,
+        "speed": 15.6,
         "gust": 31.0,
-        "direction": 9
+        "direction": 8
     },
     "history": {
         "time": [

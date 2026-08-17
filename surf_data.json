@@ -1,9 +1,9 @@
 {
-    "last_update": "2026-08-17 18:43",
+    "last_update": "2026-08-17 19:30",
     "unit": "km/h",
     "current": {
-        "speed": 6.1,
-        "gust": 18.4,
+        "speed": 8.4,
+        "gust": 18.7,
         "direction": 310
     },
     "history": {
